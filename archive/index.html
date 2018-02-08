@@ -3,15 +3,6 @@ layout: default
 title: Archive
 permalink: /archive/
 ---
-<!DOCTYPE html>
-<html lang="en-us">
-
-  {% include head.html %}
-
-  <body>
-
-    {% include sidebar.html %}
-
 <section class="archive-post-list">
 	 {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
@@ -26,5 +17,3 @@ permalink: /archive/
    {% endfor %}
 
 </section>
-</body>
-</html>
