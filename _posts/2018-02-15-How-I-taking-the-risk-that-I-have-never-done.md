@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I taking the risk that I have never done
+
 ---
 
 
@@ -27,3 +28,26 @@ My friend before you invest on me or my idea you have to be very sure that all t
 If you have one year to do the thing that you love, how much money you need to live and how much money you need to do with your business? I keep asking myself that if I stop working and how long could l live and do I really need to realize on my monthly basic wage? In order to keep my life happy and healthy probably not, so what I really need the most is to be happy and to be healthy. So I decide to not working full time anymore and what to do next is to learning about cryptocurrency in the same time trading, Invest as much as possible on the startup with local innovation and travel. 
 
 People may say that maybe I have a lot of money to do that but I tell you what, if you see my money in my bank account if you say WTF but I don’t have money, it’s not money that make me a business man it’s my mindset to be free happy and healthy. Since this is a beginning my journey so far I don’t have much testimony about my life, I actually love talking rather than writing so if you find my text so messy please don’t mind me until I afford to hire my writer I will never have a good post for you. 
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://EXAMPLE.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
