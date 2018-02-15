@@ -2,7 +2,6 @@
 layout: post
 title: How I taking the risk that I have never done
 date:   2018-02-15
-categories: life
 tags: Decentralize Personal Noted Life Love Travel
 comments: true
 analytics: true
