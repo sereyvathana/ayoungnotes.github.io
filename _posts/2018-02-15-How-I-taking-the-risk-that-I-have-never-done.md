@@ -30,4 +30,25 @@ If you have one year to do the thing that you love, how much money you need to l
 
 People may say that maybe I have a lot of money to do that but I tell you what, if you see my money in my bank account if you say WTF but I don’t have money, it’s not money that make me a business man it’s my mindset to be free happy and healthy. Since this is a beginning my journey so far I don’t have much testimony about my life, I actually love talking rather than writing so if you find my text so messy please don’t mind me until I afford to hire my writer I will never have a good post for you. 
 
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-www-ayoungnotes-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 <script id="dsq-count-scr" src="//https-www-ayoungnotes-com.disqus.com/count.js" async></script>
