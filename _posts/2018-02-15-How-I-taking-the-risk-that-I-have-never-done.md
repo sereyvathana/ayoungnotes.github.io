@@ -1,10 +1,9 @@
 ---
 layout: post
-title: How I taking the risk that I have never done
-date:   2018-02-15
+title: 'How I taking the risk that I have never done'
 tags: Decentralize Personal Noted Life Love Travel
-comments: true
-analytics: true
+date: '2016-05-29 15:12:11 -0400'
+categories: Life
 ---
 
 ![002.jpg](https://steemitimages.com/DQmZdDT6RWsnj7wmxsXvvZ9DUX3MFCZToXNtm5ehrnwpRuD/002.jpg)
