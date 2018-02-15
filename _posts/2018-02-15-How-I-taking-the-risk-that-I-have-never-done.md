@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'How I taking the risk that I have never done'
-tags: 'Decentralize Personal Noted Life Love Travel'
-date: '2018-02-15'
+title: How I taking the risk that I have never done
 ---
+
 
 ![002.jpg](https://steemitimages.com/DQmZdDT6RWsnj7wmxsXvvZ9DUX3MFCZToXNtm5ehrnwpRuD/002.jpg)
 
