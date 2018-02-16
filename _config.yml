@@ -11,6 +11,10 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
+#List top ten per page
+paginate: 10
+paginate_path: "_posts/page-:num"
+
 # About/contact
 author:
   name:              Mark Otto
