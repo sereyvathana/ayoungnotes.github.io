@@ -4,11 +4,9 @@ title: How I taking the risk that I have never done
 comments: true
 
 ---
-
+Since the day that I realized that life is getting harder and harder when you are trying hard and it’s easier when you do just little effective thing I have changed my direction. All the thing should be simply action with intelligent decision. After a year as a System engineer and another 3 years working in banking sector in IT field I felt like I want to retire from that responsibility. 
 
 ![002.jpg](https://steemitimages.com/DQmZdDT6RWsnj7wmxsXvvZ9DUX3MFCZToXNtm5ehrnwpRuD/002.jpg)
-
-Since the day that I realized that life is getting harder and harder when you are trying hard and it’s easier when you do just little effective thing I have changed my direction. All the thing should be simply action with intelligent decision. After a year as a System engineer and another 3 years working in banking sector in IT field I felt like I want to retire from that responsibility. 
 
 I think I should start learn from new things and trending technology and that’s the time I found myself so in love with blockchain and decentralized.
 
