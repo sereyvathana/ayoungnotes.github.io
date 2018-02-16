@@ -17,8 +17,8 @@ paginate_path: "_posts/page-:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
+  name:              AyoungNotes
+  url:               https://www.ayoungnotes.com
   email:             markdotto@gmail.com
 
 # Custom vars
