@@ -4,7 +4,7 @@ title: ETH Technical Analysis 03-Mar-2018
 comments: true
 
 ---
-[002.jpg](https://www.coinigy.com/assets/img/charts/5a98eb3d3058d.png)
+![ETH Tecchnical Analysis](https://www.coinigy.com/assets/img/charts/5a98eb3d3058d.png)
 
 Hey Guys, How many of you are the fan of ETH?
 As you can see from the supporting level to resistant level base on the price of ETH is between 800 USD to 975 USD something.
