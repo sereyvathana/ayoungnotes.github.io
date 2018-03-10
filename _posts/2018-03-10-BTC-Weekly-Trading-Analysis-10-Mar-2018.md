@@ -1,6 +1,6 @@
 ---
 layout: post
-title:BTC/USD 10-Mar-2018 Technical Analysis
+title: BTC/USD 10-Mar-2018 Technical Analysis
 comments: true
 
 ---
