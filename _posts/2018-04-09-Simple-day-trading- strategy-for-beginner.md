@@ -4,18 +4,18 @@ title: Simple day trading strategy for beginner
 comments: true
 
 ---
-![eth/usd](img/eth-usd_20180409.png)
+![eth/usd](https://github.com/mrayoung/ayoungnotes.github.io/blob/master/_posts/img/eth-usd_20180409.png.png)
 I’m not shy to admit that I am not a good writer. Most of the time when I want to express my opinion I rather take a video  instead of writing or call instead of texting.
 
 So let’s forget about my awesome dramatic writing let’s talk more about the market today. Since I turn to be a day trader I have switched the candle stick and make it into 15 minutes EMA and watch carefully on the MACD (For more detail about the EMA and MACD I will covered in the next section).
 
 This is not a financial investment advised but I personally like to share about combining the EMA and MACD together this is could possibly gain for day trading.
 
-![Snail Walk](img/snail_working.jpg)
+![Snail Walk](https://github.com/mrayoung/ayoungnotes.github.io/blob/master/_posts/img/eth-usd_20180409.png.jpg)
 
 Look at the paragraph above this is ETH/USD trading pare. As you can see it’s seem not giving you much profit but at least it’s able to make you growth the portfolio and you can use this trading style to others pare as well.
 
-![The Marshmallow Test](img/marshmallow-test.jpg)
+![The Marshmallow Test](https://github.com/mrayoung/ayoungnotes.github.io/blob/master/_posts/img/marshmallow-test.jpg)
 
 Another thing is for days trader need to have a strong self discipline principle. For example like at the end of the day you need to settle the profit and lost,  At this stage you wont keep until tomorrow.
 
