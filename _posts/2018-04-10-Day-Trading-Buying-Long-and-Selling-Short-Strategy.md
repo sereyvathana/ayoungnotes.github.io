@@ -4,12 +4,12 @@ title: Day Trading Buying Long and Selling Short Strategy
 comments: true
 
 ---
-![The Day Trader](url)
+![The Day Trader](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/the_day_trader.jpg)
 If you are a beginner trader like me I am strongly recommend to step with some simple strategies that does not look so complicated. I like to remind you as well the profits trading does not come from reading one or two books it’s will come a long together with practice with right tools and platform.
 
 In my opinion the important lesson that we should learn is not to get rich quickly from trading. This is the first and must remember rule. I am sorry if this offended you but if you looking for the way to get rich fast I couldn't help you. If I know I will rather do it my own lol.
 
-![Get Rich Quick](url)
+![Get Rich Quick](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/getrich_quick.gif)
 
 There are three type of trader I have defined 
 ### 1. Day trader
@@ -28,7 +28,7 @@ Buying long and selling short simply mean once you bought and hoping that the pr
 
 let’s figure out from the buying zone and the selling zone. I have bought the ETH since 6:00 AM Cambodian time and patiently hold until 15:30 that’s around 6 to 7 hours but once the price it’s drop just 15 to 30 minutes later I am execute the sale immediately take out the profit happily and looking for another possible market.
 
-![BuyandSell](url)
+![BuyandSell](https://raw.githubusercontent.com/mrayoung/ayoungnotes.github.io/master/_posts/img/buyandsell.png)
 
 Generally the short selling is one of the dangerous trading. But once we play on the down trends market it’s helpful with this style.
 
